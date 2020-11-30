@@ -1,0 +1,14 @@
+#sec1{
+	height: 10px;
+	background-color: #27006B;
+}
+
+fieldset{
+	border:  5px black #000000;
+    margin: 20px 200px;
+    background-color: lightblue;
+}
+
+table {
+  border-spacing: 10px;
+}
